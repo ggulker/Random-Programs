@@ -1,0 +1,13 @@
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\bin\Debug\Program 8.exe.config
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\bin\Debug\Program 8.exe
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\bin\Debug\Program 8.pdb
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program 8.csprojResolveAssemblyReference.cache
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program_8.Form1.resources
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program_8.Properties.Resources.resources
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program 8.csproj.GenerateResource.Cache
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program 8.csproj.CoreCompileInputs.cache
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program 8.exe
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program 8.pdb
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program_8.Workshop.resources
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program_8.WorkshopName.resources
+C:\Users\ceage\Documents\CPL programs\Program 8\Program 8\obj\Debug\Program_8.InsertForm.resources
