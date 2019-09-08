@@ -1,0 +1,10 @@
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\bin\Debug\Evidence Game.exe.config
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\bin\Debug\Evidence Game.exe
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\bin\Debug\Evidence Game.pdb
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence Game.csprojResolveAssemblyReference.cache
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence_Game.Properties.Resources.resources
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence Game.csproj.GenerateResource.Cache
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence Game.csproj.CoreCompileInputs.cache
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence Game.exe
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence Game.pdb
+C:\Users\ceage\Documents\CPL programs\Evidence Game\Evidence Game\obj\Debug\Evidence_Game.FindSampleGame.resources
