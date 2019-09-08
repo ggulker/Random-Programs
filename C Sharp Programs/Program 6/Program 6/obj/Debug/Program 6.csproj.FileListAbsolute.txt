@@ -1,0 +1,11 @@
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\bin\Debug\Program 6.exe.config
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\bin\Debug\Program 6.exe
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\bin\Debug\Program 6.pdb
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program 6.csprojResolveAssemblyReference.cache
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program_6.CustomPage.resources
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program_6.Properties.Resources.resources
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program_6.StartPage.resources
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program 6.csproj.GenerateResource.Cache
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program 6.csproj.CoreCompileInputs.cache
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program 6.exe
+C:\Users\ceage\Documents\CPL programs\Program 6\Program 6\obj\Debug\Program 6.pdb
