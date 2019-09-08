@@ -1,0 +1,10 @@
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\bin\Debug\Project 7.exe.config
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\bin\Debug\Project 7.exe
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\bin\Debug\Project 7.pdb
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project 7.csprojResolveAssemblyReference.cache
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project_7.Properties.Resources.resources
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project 7.csproj.GenerateResource.Cache
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project 7.csproj.CoreCompileInputs.cache
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project 7.exe
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project 7.pdb
+C:\Users\ceage\Documents\CPL programs\Project 7\Project 7\obj\Debug\Project_7.Background.resources
