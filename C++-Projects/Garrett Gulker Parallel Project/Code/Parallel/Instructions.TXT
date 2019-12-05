@@ -1,0 +1,27 @@
+TO RUN FILE:
+1. place all files but this one inside stampede
+2. compile code:  icpc CipherParallel.cpp -o CipherParallel.exe -lpthread
+3. execute code:  sbatch CipherParallelScript
+4. runtime will be found in "CipherParallel.o" file
+5. output of the program will be found in the "output.txt" file
+5a. output will be organized:
+ORIGINAL MESSAGE
+================
+ENCRYPTED MESSAGE
+================
+DECRYPTED MESSAGE
+
+
+TO CHANGE INPUT FILE: (example of an input file is already with the program)
+1. open the "input.txt" file with a text editor
+2.the input file must start with a four character key followed by any sized message
+ex.
+ASDF
+Hello world...
+
+
+TO CHANGE THREADS USED:
+1.in the .cpp file there is a variable called NUM_THREADS change that to the amount of
+  threads you wish to use
+2.in the CipherParallelScript file OMP_NUM_THREADS needs to be changed to the same
+  number you put in the .cpp file
