@@ -1,0 +1,8 @@
+Stampede 2:
+1. place both the .c file and the stamp script file in stampede
+2. mpicc GulkerSeqVer.c -o GulkerSeqVer.exe -lm
+3. sbatch GulkerSeqScriptStamp
+
+Turing:
+1. place both the .c file and Tur script file in turing
+2. qsub GulkerSeqScriptTur

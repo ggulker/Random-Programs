@@ -1,0 +1,23 @@
+#!/bin/bash
+#SBATCH -J Par           # Job name
+#SBATCH -o Par.o%j       # Name of stdout output file
+#SBATCH -e Par.e%j       # Name of stderr error file
+#SBATCH -p normal          # Queue (partition) name
+#SBATCH -N 4               # Total # of nodes 
+#SBATCH -n 16              # Total # of mpi tasks
+#SBATCH -t 01:30:00        # Run time (hh:mm:ss)
+#SBATCH --mail-user=
+#SBATCH --mail-type=all    # Send email at begin and end of job
+#SBATCH -A CMPS-5433-MWSU  # class project/account code
+
+# Other commands must follow all #SBATCH directives...
+
+module list
+pwd
+date
+
+# Launch MPI code... 
+
+ibrun ./GulkerParVer.exe         # Use ibrun instead of mpirun or mpiexec
+
+# ---------------------------------------------------
